@@ -1,7 +1,7 @@
 # ASL Translator Project
 
 ## Overview
-
+This project is a real-time American Sign Language (ASL) Translator built using Python. It leverages MediaPipe for hand landmark detection and TensorFlow for gesture classification to enable communication between ASL users and non-signers.
 
 ## Features
 - Real-time hand gesture detection using MediaPipe.
